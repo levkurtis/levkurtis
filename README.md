@@ -1,6 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Hi, I'm [Levent Kurtis](https://www.levkurtis.com), I am an E-business student from Copenhagen, Denmark.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levkurtis)](https://github.com/levkurtis/github-readme-stats)
+
+
 - 🌱 Currently learning Python.
 - 📫 How to reach me: levkurtis@gmail.com
 
