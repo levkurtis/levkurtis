@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Hi, I'm [Levent Kurtis](https://www.levkurtis.com), I am an E-business student from Copenhagen, Denmark.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levkurtis&hide=stars,issues&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levkurtis&hide=stars,issues&count_private=true?theme=prussian)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levkurtis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
