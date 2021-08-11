@@ -3,7 +3,7 @@ Hi, I'm [Levent Kurtis](https://www.levkurtis.com), I am an E-business student f
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levkurtis&hide=stars,issues&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levkurtis)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levkurtis?hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 Currently learning Python.
